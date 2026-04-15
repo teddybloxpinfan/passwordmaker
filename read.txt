@@ -1,4 +1,0 @@
-chmod +x createpassword.py
-
-
-run './createpassword.py' without the ' to run the file!
