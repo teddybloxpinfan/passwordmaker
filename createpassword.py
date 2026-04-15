@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from cryptography.fernet import Fernet
 
@@ -10,3 +12,5 @@ main = input()
 passwd = Fernet.generate_key()
 
 print(passwd)
+
+input("\n\n\n\n\npress ENTER when you are done")
